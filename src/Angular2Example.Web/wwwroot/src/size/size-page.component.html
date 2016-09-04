@@ -1,0 +1,53 @@
+﻿<h3>Size template example</h3>
+<form class="form-inline">
+    <div class="form-group">
+        <label for="sizeType">Size type</label>
+        <select class="form-control" id="sizeType" required name="selectedSize" [(ngModel)]="selectedSize" (ngModelChange)="onSizeChanged($event)">
+            <option *ngFor="let s of sizes" [ngValue]="s">{{s.name}}</option>
+        </select>
+    </div>
+</form>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="table-responsive">
+            <table class="table qty-table">
+                <tr *ngFor="let row of selectedSize.rows">
+                    <td class="text-right qty-label">{{row.name}}</td>
+                    <td class="qty-row">
+                        <div class="form-group qty-item text-center" *ngFor="let item of row.fields">
+                            <label>{{item.label}}</label>
+                            <p>{{item.qty || '&nbsp;'}}</p>
+                            <input type="text" class="form-control text-center" [(ngModel)]="item.delta" />
+                            <span class="input-group-addon bootstrap-touchspin-postfix total-qty">{{item.total()}}</span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+<!--<div class="row">
+    <div class="col-md-12">
+        <div class="table-responsive">
+            <table class="table qty-table">
+                <tr ng-repeat="row in inventory track by $index" ng-class="{ 'show-total' : showTotal }">
+                    <td class="text-right qty-label">{{row.name}}</td>
+                    <td class="qty-row">
+                        <div class="form-group qty-item text-center" ng-class="{'qty-item-readonly':readonly}" ng-repeat="item in row.fields track by $index">
+                            <label>{{item.label}}</label>
+                            <p ng-show="readonly"
+                               uib-popover-template="item.printLabelPopover.templateUrl"
+                               popover-title="{{'PrintLabel' | translate}}"
+                               popover-placement="bottom">{{item.qty || '&nbsp;'}}</p>
+                            <input touchspin-quantity min="{{min}}" ng-hide="readonly" type="text" class="form-control text-center" ng-model="item.delta" numeric-only />
+                            <span class="input-group-addon bootstrap-touchspin-postfix total-qty" ng-show="showTotal">{{item.total()}}</span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>-->

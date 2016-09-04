@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Angular2Example.Web/bower_components
+/src/Angular2Example.Web/typings

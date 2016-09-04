@@ -1,0 +1,17 @@
+{
+  "name": "angular2-example",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "sgolub"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sgolub/Angular2-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
