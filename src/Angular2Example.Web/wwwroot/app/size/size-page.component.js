@@ -10,47 +10,32 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require('@angular/core');
 var SizeFieldRow_1 = require('../models/SizeFieldRow');
+var InventoryService_1 = require('../services/InventoryService');
 var SizePageComponent = (function () {
-    function SizePageComponent() {
-        this.sizes = [
-            {
-                id: 1,
-                name: 'One size',
-                rows: [
-                    {
-                        id: 1,
-                        name: '',
-                        fields: [
-                            {
-                                id: 1,
-                                labelId: '1',
-                                size: 1,
-                                label: 'One size',
-                                qty: 0
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                id: 2,
-                name: 'Dress',
-                rows: []
-            }
-        ].map(function (o) {
-            o.rows = o.rows.map(function (r) { return new SizeFieldRow_1.SizeFieldRow(r); });
-            return o;
-        });
-        this.selectedSize = this.sizes[0];
-        this.onSizeChanged();
+    function SizePageComponent(inventoryService) {
+        this.inventoryService = inventoryService;
+        this.readonlyMode = false;
     }
-    SizePageComponent.prototype.onSizeChanged = function () {
+    SizePageComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        this.inventoryService.getInventory().subscribe(function (sizes) {
+            _this.sizes = sizes.map(function (o) {
+                o.rows = o.inventory.map(function (r) { return new SizeFieldRow_1.SizeFieldRow(r); });
+                return o;
+            });
+        });
+        //this.selectedSize = this.sizes[0];
+        //this.onSizeChanged();
+    };
+    SizePageComponent.prototype.onSizeChanged = function (selectedSize) {
+        //this.selectedSize = selectedSize;
     };
     SizePageComponent = __decorate([
         core_1.Component({
-            templateUrl: 'src/size/size-page.component.html'
+            templateUrl: 'src/size/size-page.component.html',
+            providers: [InventoryService_1.InventoryService]
         }), 
-        __metadata('design:paramtypes', [])
+        __metadata('design:paramtypes', [InventoryService_1.InventoryService])
     ], SizePageComponent);
     return SizePageComponent;
 }());

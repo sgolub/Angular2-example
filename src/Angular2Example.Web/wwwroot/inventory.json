@@ -1,0 +1,2428 @@
+[{
+		"inventory" : [{
+				"id" : 17,
+				"name" : null,
+				"fields" : [{
+						"id" : 5424,
+						"sizeId" : 464,
+						"labelId" : 17,
+						"size" : 3,
+						"label" : "34",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 5425,
+						"sizeId" : 464,
+						"labelId" : 17,
+						"size" : 5,
+						"label" : "36",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 5426,
+						"sizeId" : 464,
+						"labelId" : 17,
+						"size" : 7,
+						"label" : "38",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 5427,
+						"sizeId" : 464,
+						"labelId" : 17,
+						"size" : 9,
+						"label" : "40",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 5428,
+						"sizeId" : 464,
+						"labelId" : 17,
+						"size" : 11,
+						"label" : "42",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 5429,
+						"sizeId" : 464,
+						"labelId" : 17,
+						"size" : 13,
+						"label" : "44",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 5430,
+						"sizeId" : 464,
+						"labelId" : 17,
+						"size" : 15,
+						"label" : "46",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 5431,
+						"sizeId" : 464,
+						"labelId" : 17,
+						"size" : 17,
+						"label" : "48",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 464,
+		"name" : "Dame"
+	}, {
+		"inventory" : [{
+				"id" : 18,
+				"name" : null,
+				"fields" : [{
+						"id" : 4550,
+						"sizeId" : 407,
+						"labelId" : 18,
+						"size" : 3,
+						"label" : "65",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 4551,
+						"sizeId" : 407,
+						"labelId" : 18,
+						"size" : 5,
+						"label" : "70",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 4552,
+						"sizeId" : 407,
+						"labelId" : 18,
+						"size" : 7,
+						"label" : "75",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 4553,
+						"sizeId" : 407,
+						"labelId" : 18,
+						"size" : 9,
+						"label" : "80",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 4554,
+						"sizeId" : 407,
+						"labelId" : 18,
+						"size" : 11,
+						"label" : "85",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 4555,
+						"sizeId" : 407,
+						"labelId" : 18,
+						"size" : 13,
+						"label" : "90",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 4556,
+						"sizeId" : 407,
+						"labelId" : 18,
+						"size" : 15,
+						"label" : "95",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 4557,
+						"sizeId" : 407,
+						"labelId" : 18,
+						"size" : 16,
+						"label" : "100",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 4558,
+						"sizeId" : 407,
+						"labelId" : 18,
+						"size" : 17,
+						"label" : "105",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 407,
+		"name" : "BH"
+	}, {
+		"inventory" : [{
+				"id" : 27,
+				"name" : "A",
+				"fields" : [{
+						"id" : 4514,
+						"sizeId" : 406,
+						"labelId" : 27,
+						"size" : 3,
+						"label" : "65A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4515,
+						"sizeId" : 406,
+						"labelId" : 27,
+						"size" : 5,
+						"label" : "70A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4516,
+						"sizeId" : 406,
+						"labelId" : 27,
+						"size" : 7,
+						"label" : "75A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4517,
+						"sizeId" : 406,
+						"labelId" : 27,
+						"size" : 9,
+						"label" : "80A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4518,
+						"sizeId" : 406,
+						"labelId" : 27,
+						"size" : 11,
+						"label" : "85A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4519,
+						"sizeId" : 406,
+						"labelId" : 27,
+						"size" : 13,
+						"label" : "90A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4520,
+						"sizeId" : 406,
+						"labelId" : 27,
+						"size" : 15,
+						"label" : "95A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4521,
+						"sizeId" : 406,
+						"labelId" : 27,
+						"size" : 16,
+						"label" : "100A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4522,
+						"sizeId" : 406,
+						"labelId" : 27,
+						"size" : 17,
+						"label" : "105A",
+						"sizaLabelName" : "A         "
+					}
+				]
+			}, {
+				"id" : 28,
+				"name" : "B",
+				"fields" : [{
+						"id" : 4523,
+						"sizeId" : 406,
+						"labelId" : 28,
+						"size" : 3,
+						"label" : "65B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4524,
+						"sizeId" : 406,
+						"labelId" : 28,
+						"size" : 5,
+						"label" : "70B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4525,
+						"sizeId" : 406,
+						"labelId" : 28,
+						"size" : 7,
+						"label" : "75B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4526,
+						"sizeId" : 406,
+						"labelId" : 28,
+						"size" : 9,
+						"label" : "80B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4527,
+						"sizeId" : 406,
+						"labelId" : 28,
+						"size" : 11,
+						"label" : "85B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4528,
+						"sizeId" : 406,
+						"labelId" : 28,
+						"size" : 13,
+						"label" : "90B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4529,
+						"sizeId" : 406,
+						"labelId" : 28,
+						"size" : 15,
+						"label" : "95B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4530,
+						"sizeId" : 406,
+						"labelId" : 28,
+						"size" : 16,
+						"label" : "100B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4531,
+						"sizeId" : 406,
+						"labelId" : 28,
+						"size" : 17,
+						"label" : "105B",
+						"sizaLabelName" : "B         "
+					}
+				]
+			}, {
+				"id" : 29,
+				"name" : "C",
+				"fields" : [{
+						"id" : 4532,
+						"sizeId" : 406,
+						"labelId" : 29,
+						"size" : 3,
+						"label" : "65C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4533,
+						"sizeId" : 406,
+						"labelId" : 29,
+						"size" : 5,
+						"label" : "70C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4534,
+						"sizeId" : 406,
+						"labelId" : 29,
+						"size" : 7,
+						"label" : "75C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4535,
+						"sizeId" : 406,
+						"labelId" : 29,
+						"size" : 9,
+						"label" : "80C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4536,
+						"sizeId" : 406,
+						"labelId" : 29,
+						"size" : 11,
+						"label" : "85C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4537,
+						"sizeId" : 406,
+						"labelId" : 29,
+						"size" : 13,
+						"label" : "90C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4538,
+						"sizeId" : 406,
+						"labelId" : 29,
+						"size" : 15,
+						"label" : "95C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4539,
+						"sizeId" : 406,
+						"labelId" : 29,
+						"size" : 16,
+						"label" : "100C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4540,
+						"sizeId" : 406,
+						"labelId" : 29,
+						"size" : 17,
+						"label" : "105C",
+						"sizaLabelName" : "C         "
+					}
+				]
+			}, {
+				"id" : 30,
+				"name" : "D",
+				"fields" : [{
+						"id" : 4541,
+						"sizeId" : 406,
+						"labelId" : 30,
+						"size" : 3,
+						"label" : "65D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4542,
+						"sizeId" : 406,
+						"labelId" : 30,
+						"size" : 5,
+						"label" : "70D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4543,
+						"sizeId" : 406,
+						"labelId" : 30,
+						"size" : 7,
+						"label" : "75D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4544,
+						"sizeId" : 406,
+						"labelId" : 30,
+						"size" : 9,
+						"label" : "80D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4545,
+						"sizeId" : 406,
+						"labelId" : 30,
+						"size" : 11,
+						"label" : "85D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4546,
+						"sizeId" : 406,
+						"labelId" : 30,
+						"size" : 13,
+						"label" : "90D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4547,
+						"sizeId" : 406,
+						"labelId" : 30,
+						"size" : 15,
+						"label" : "95D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4548,
+						"sizeId" : 406,
+						"labelId" : 30,
+						"size" : 16,
+						"label" : "100D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4549,
+						"sizeId" : 406,
+						"labelId" : 30,
+						"size" : 17,
+						"label" : "105D",
+						"sizaLabelName" : "D         "
+					}
+				]
+			}
+		],
+		"id" : 406,
+		"name" : "BH A-D"
+	}, {
+		"inventory" : [{
+				"id" : 27,
+				"name" : "A",
+				"fields" : [{
+						"id" : 4442,
+						"sizeId" : 405,
+						"labelId" : 27,
+						"size" : 3,
+						"label" : "65A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4443,
+						"sizeId" : 405,
+						"labelId" : 27,
+						"size" : 5,
+						"label" : "70A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4444,
+						"sizeId" : 405,
+						"labelId" : 27,
+						"size" : 7,
+						"label" : "75A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4445,
+						"sizeId" : 405,
+						"labelId" : 27,
+						"size" : 9,
+						"label" : "80A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4446,
+						"sizeId" : 405,
+						"labelId" : 27,
+						"size" : 11,
+						"label" : "85A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4447,
+						"sizeId" : 405,
+						"labelId" : 27,
+						"size" : 13,
+						"label" : "90A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4448,
+						"sizeId" : 405,
+						"labelId" : 27,
+						"size" : 15,
+						"label" : "95A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4449,
+						"sizeId" : 405,
+						"labelId" : 27,
+						"size" : 16,
+						"label" : "100A",
+						"sizaLabelName" : "A         "
+					}, {
+						"id" : 4450,
+						"sizeId" : 405,
+						"labelId" : 27,
+						"size" : 17,
+						"label" : "105A",
+						"sizaLabelName" : "A         "
+					}
+				]
+			}, {
+				"id" : 28,
+				"name" : "B",
+				"fields" : [{
+						"id" : 4451,
+						"sizeId" : 405,
+						"labelId" : 28,
+						"size" : 3,
+						"label" : "65B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4452,
+						"sizeId" : 405,
+						"labelId" : 28,
+						"size" : 5,
+						"label" : "70B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4453,
+						"sizeId" : 405,
+						"labelId" : 28,
+						"size" : 7,
+						"label" : "75B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4454,
+						"sizeId" : 405,
+						"labelId" : 28,
+						"size" : 9,
+						"label" : "80B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4455,
+						"sizeId" : 405,
+						"labelId" : 28,
+						"size" : 11,
+						"label" : "85B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4456,
+						"sizeId" : 405,
+						"labelId" : 28,
+						"size" : 13,
+						"label" : "90B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4457,
+						"sizeId" : 405,
+						"labelId" : 28,
+						"size" : 15,
+						"label" : "95B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4458,
+						"sizeId" : 405,
+						"labelId" : 28,
+						"size" : 16,
+						"label" : "100B",
+						"sizaLabelName" : "B         "
+					}, {
+						"id" : 4459,
+						"sizeId" : 405,
+						"labelId" : 28,
+						"size" : 17,
+						"label" : "105B",
+						"sizaLabelName" : "B         "
+					}
+				]
+			}, {
+				"id" : 29,
+				"name" : "C",
+				"fields" : [{
+						"id" : 4460,
+						"sizeId" : 405,
+						"labelId" : 29,
+						"size" : 3,
+						"label" : "65C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4461,
+						"sizeId" : 405,
+						"labelId" : 29,
+						"size" : 5,
+						"label" : "70C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4462,
+						"sizeId" : 405,
+						"labelId" : 29,
+						"size" : 7,
+						"label" : "75C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4463,
+						"sizeId" : 405,
+						"labelId" : 29,
+						"size" : 9,
+						"label" : "80C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4464,
+						"sizeId" : 405,
+						"labelId" : 29,
+						"size" : 11,
+						"label" : "85C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4465,
+						"sizeId" : 405,
+						"labelId" : 29,
+						"size" : 13,
+						"label" : "90C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4466,
+						"sizeId" : 405,
+						"labelId" : 29,
+						"size" : 15,
+						"label" : "95C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4467,
+						"sizeId" : 405,
+						"labelId" : 29,
+						"size" : 16,
+						"label" : "100C",
+						"sizaLabelName" : "C         "
+					}, {
+						"id" : 4468,
+						"sizeId" : 405,
+						"labelId" : 29,
+						"size" : 17,
+						"label" : "105C",
+						"sizaLabelName" : "C         "
+					}
+				]
+			}, {
+				"id" : 30,
+				"name" : "D",
+				"fields" : [{
+						"id" : 4469,
+						"sizeId" : 405,
+						"labelId" : 30,
+						"size" : 3,
+						"label" : "65D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4470,
+						"sizeId" : 405,
+						"labelId" : 30,
+						"size" : 5,
+						"label" : "70D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4471,
+						"sizeId" : 405,
+						"labelId" : 30,
+						"size" : 7,
+						"label" : "75D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4472,
+						"sizeId" : 405,
+						"labelId" : 30,
+						"size" : 9,
+						"label" : "80D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4473,
+						"sizeId" : 405,
+						"labelId" : 30,
+						"size" : 11,
+						"label" : "85D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4474,
+						"sizeId" : 405,
+						"labelId" : 30,
+						"size" : 13,
+						"label" : "90D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4475,
+						"sizeId" : 405,
+						"labelId" : 30,
+						"size" : 15,
+						"label" : "95D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4476,
+						"sizeId" : 405,
+						"labelId" : 30,
+						"size" : 16,
+						"label" : "100D",
+						"sizaLabelName" : "D         "
+					}, {
+						"id" : 4477,
+						"sizeId" : 405,
+						"labelId" : 30,
+						"size" : 17,
+						"label" : "105D",
+						"sizaLabelName" : "D         "
+					}
+				]
+			}, {
+				"id" : 31,
+				"name" : "E",
+				"fields" : [{
+						"id" : 4478,
+						"sizeId" : 405,
+						"labelId" : 31,
+						"size" : 3,
+						"label" : "65E",
+						"sizaLabelName" : "E         "
+					}, {
+						"id" : 4479,
+						"sizeId" : 405,
+						"labelId" : 31,
+						"size" : 5,
+						"label" : "70E",
+						"sizaLabelName" : "E         "
+					}, {
+						"id" : 4480,
+						"sizeId" : 405,
+						"labelId" : 31,
+						"size" : 7,
+						"label" : "75E",
+						"sizaLabelName" : "E         "
+					}, {
+						"id" : 4481,
+						"sizeId" : 405,
+						"labelId" : 31,
+						"size" : 9,
+						"label" : "80E",
+						"sizaLabelName" : "E         "
+					}, {
+						"id" : 4482,
+						"sizeId" : 405,
+						"labelId" : 31,
+						"size" : 11,
+						"label" : "85E",
+						"sizaLabelName" : "E         "
+					}, {
+						"id" : 4483,
+						"sizeId" : 405,
+						"labelId" : 31,
+						"size" : 13,
+						"label" : "90E",
+						"sizaLabelName" : "E         "
+					}, {
+						"id" : 4484,
+						"sizeId" : 405,
+						"labelId" : 31,
+						"size" : 15,
+						"label" : "95E",
+						"sizaLabelName" : "E         "
+					}, {
+						"id" : 4485,
+						"sizeId" : 405,
+						"labelId" : 31,
+						"size" : 16,
+						"label" : "100E",
+						"sizaLabelName" : "E         "
+					}, {
+						"id" : 4486,
+						"sizeId" : 405,
+						"labelId" : 31,
+						"size" : 17,
+						"label" : "105E",
+						"sizaLabelName" : "E         "
+					}
+				]
+			}, {
+				"id" : 32,
+				"name" : "F",
+				"fields" : [{
+						"id" : 4487,
+						"sizeId" : 405,
+						"labelId" : 32,
+						"size" : 3,
+						"label" : "65F",
+						"sizaLabelName" : "F         "
+					}, {
+						"id" : 4488,
+						"sizeId" : 405,
+						"labelId" : 32,
+						"size" : 5,
+						"label" : "70F",
+						"sizaLabelName" : "F         "
+					}, {
+						"id" : 4489,
+						"sizeId" : 405,
+						"labelId" : 32,
+						"size" : 7,
+						"label" : "75F",
+						"sizaLabelName" : "F         "
+					}, {
+						"id" : 4490,
+						"sizeId" : 405,
+						"labelId" : 32,
+						"size" : 9,
+						"label" : "80F",
+						"sizaLabelName" : "F         "
+					}, {
+						"id" : 4491,
+						"sizeId" : 405,
+						"labelId" : 32,
+						"size" : 11,
+						"label" : "85F",
+						"sizaLabelName" : "F         "
+					}, {
+						"id" : 4492,
+						"sizeId" : 405,
+						"labelId" : 32,
+						"size" : 13,
+						"label" : "90F",
+						"sizaLabelName" : "F         "
+					}, {
+						"id" : 4493,
+						"sizeId" : 405,
+						"labelId" : 32,
+						"size" : 15,
+						"label" : "95F",
+						"sizaLabelName" : "F         "
+					}, {
+						"id" : 4494,
+						"sizeId" : 405,
+						"labelId" : 32,
+						"size" : 16,
+						"label" : "100F",
+						"sizaLabelName" : "F         "
+					}, {
+						"id" : 4495,
+						"sizeId" : 405,
+						"labelId" : 32,
+						"size" : 17,
+						"label" : "105F",
+						"sizaLabelName" : "F         "
+					}
+				]
+			}, {
+				"id" : 33,
+				"name" : "G",
+				"fields" : [{
+						"id" : 4496,
+						"sizeId" : 405,
+						"labelId" : 33,
+						"size" : 3,
+						"label" : "65G",
+						"sizaLabelName" : "G         "
+					}, {
+						"id" : 4497,
+						"sizeId" : 405,
+						"labelId" : 33,
+						"size" : 5,
+						"label" : "70G",
+						"sizaLabelName" : "G         "
+					}, {
+						"id" : 4498,
+						"sizeId" : 405,
+						"labelId" : 33,
+						"size" : 7,
+						"label" : "75G",
+						"sizaLabelName" : "G         "
+					}, {
+						"id" : 4499,
+						"sizeId" : 405,
+						"labelId" : 33,
+						"size" : 9,
+						"label" : "80G",
+						"sizaLabelName" : "G         "
+					}, {
+						"id" : 4500,
+						"sizeId" : 405,
+						"labelId" : 33,
+						"size" : 11,
+						"label" : "85G",
+						"sizaLabelName" : "G         "
+					}, {
+						"id" : 4501,
+						"sizeId" : 405,
+						"labelId" : 33,
+						"size" : 13,
+						"label" : "90G",
+						"sizaLabelName" : "G         "
+					}, {
+						"id" : 4502,
+						"sizeId" : 405,
+						"labelId" : 33,
+						"size" : 15,
+						"label" : "95G",
+						"sizaLabelName" : "G         "
+					}, {
+						"id" : 4503,
+						"sizeId" : 405,
+						"labelId" : 33,
+						"size" : 16,
+						"label" : "100G",
+						"sizaLabelName" : "G         "
+					}, {
+						"id" : 4504,
+						"sizeId" : 405,
+						"labelId" : 33,
+						"size" : 17,
+						"label" : "105G",
+						"sizaLabelName" : "G         "
+					}
+				]
+			}, {
+				"id" : 34,
+				"name" : "H",
+				"fields" : [{
+						"id" : 4505,
+						"sizeId" : 405,
+						"labelId" : 34,
+						"size" : 3,
+						"label" : "65H",
+						"sizaLabelName" : "H         "
+					}, {
+						"id" : 4506,
+						"sizeId" : 405,
+						"labelId" : 34,
+						"size" : 5,
+						"label" : "70H",
+						"sizaLabelName" : "H         "
+					}, {
+						"id" : 4507,
+						"sizeId" : 405,
+						"labelId" : 34,
+						"size" : 7,
+						"label" : "75H",
+						"sizaLabelName" : "H         "
+					}, {
+						"id" : 4508,
+						"sizeId" : 405,
+						"labelId" : 34,
+						"size" : 9,
+						"label" : "80H",
+						"sizaLabelName" : "H         "
+					}, {
+						"id" : 4509,
+						"sizeId" : 405,
+						"labelId" : 34,
+						"size" : 11,
+						"label" : "85H",
+						"sizaLabelName" : "H         "
+					}, {
+						"id" : 4510,
+						"sizeId" : 405,
+						"labelId" : 34,
+						"size" : 13,
+						"label" : "90H",
+						"sizaLabelName" : "H         "
+					}, {
+						"id" : 4511,
+						"sizeId" : 405,
+						"labelId" : 34,
+						"size" : 15,
+						"label" : "95H",
+						"sizaLabelName" : "H         "
+					}, {
+						"id" : 4512,
+						"sizeId" : 405,
+						"labelId" : 34,
+						"size" : 16,
+						"label" : "100H",
+						"sizaLabelName" : "H         "
+					}, {
+						"id" : 4513,
+						"sizeId" : 405,
+						"labelId" : 34,
+						"size" : 17,
+						"label" : "105H",
+						"sizaLabelName" : "H         "
+					}
+				]
+			}
+		],
+		"id" : 405,
+		"name" : "BH A-H"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 347,
+						"sizeId" : 39,
+						"labelId" : 1,
+						"size" : 1,
+						"label" : "Str1",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 348,
+						"sizeId" : 39,
+						"labelId" : 1,
+						"size" : 2,
+						"label" : "Str2",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 349,
+						"sizeId" : 39,
+						"labelId" : 1,
+						"size" : 3,
+						"label" : "Str3",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 350,
+						"sizeId" : 39,
+						"labelId" : 1,
+						"size" : 4,
+						"label" : "Str4",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 39,
+		"name" : "Testsize"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 343,
+						"sizeId" : 38,
+						"labelId" : 1,
+						"size" : 1,
+						"label" : "Str1",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 344,
+						"sizeId" : 38,
+						"labelId" : 1,
+						"size" : 2,
+						"label" : "Str2",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 345,
+						"sizeId" : 38,
+						"labelId" : 1,
+						"size" : 3,
+						"label" : "Str3",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 346,
+						"sizeId" : 38,
+						"labelId" : 1,
+						"size" : 4,
+						"label" : "Str4",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 38,
+		"name" : "Testsize"
+	}, {
+		"inventory" : [],
+		"id" : 37,
+		"name" : "Testsize"
+	}, {
+		"inventory" : [],
+		"id" : 36,
+		"name" : "Testsize"
+	}, {
+		"inventory" : [{
+				"id" : 23,
+				"name" : null,
+				"fields" : [{
+						"id" : 306,
+						"sizeId" : 35,
+						"labelId" : 23,
+						"size" : 3,
+						"label" : "44",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 307,
+						"sizeId" : 35,
+						"labelId" : 23,
+						"size" : 5,
+						"label" : "46",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 308,
+						"sizeId" : 35,
+						"labelId" : 23,
+						"size" : 7,
+						"label" : "48",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 309,
+						"sizeId" : 35,
+						"labelId" : 23,
+						"size" : 9,
+						"label" : "50",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 310,
+						"sizeId" : 35,
+						"labelId" : 23,
+						"size" : 11,
+						"label" : "52",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 311,
+						"sizeId" : 35,
+						"labelId" : 23,
+						"size" : 13,
+						"label" : "54",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 312,
+						"sizeId" : 35,
+						"labelId" : 23,
+						"size" : 15,
+						"label" : "56",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 313,
+						"sizeId" : 35,
+						"labelId" : 23,
+						"size" : 17,
+						"label" : "58",
+						"sizaLabelName" : "          "
+					}
+				]
+			}, {
+				"id" : 24,
+				"name" : "Kort",
+				"fields" : [{
+						"id" : 320,
+						"sizeId" : 35,
+						"labelId" : 24,
+						"size" : 7,
+						"label" : "96",
+						"sizaLabelName" : "Kort      "
+					}, {
+						"id" : 321,
+						"sizeId" : 35,
+						"labelId" : 24,
+						"size" : 9,
+						"label" : "100",
+						"sizaLabelName" : "Kort      "
+					}, {
+						"id" : 322,
+						"sizeId" : 35,
+						"labelId" : 24,
+						"size" : 11,
+						"label" : "104",
+						"sizaLabelName" : "Kort      "
+					}, {
+						"id" : 323,
+						"sizeId" : 35,
+						"labelId" : 24,
+						"size" : 13,
+						"label" : "108",
+						"sizaLabelName" : "Kort      "
+					}
+				]
+			}, {
+				"id" : 25,
+				"name" : "Lang",
+				"fields" : [{
+						"id" : 314,
+						"sizeId" : 35,
+						"labelId" : 25,
+						"size" : 5,
+						"label" : "146",
+						"sizaLabelName" : "Lang      "
+					}, {
+						"id" : 315,
+						"sizeId" : 35,
+						"labelId" : 25,
+						"size" : 7,
+						"label" : "148",
+						"sizaLabelName" : "Lang      "
+					}, {
+						"id" : 316,
+						"sizeId" : 35,
+						"labelId" : 25,
+						"size" : 9,
+						"label" : "150",
+						"sizaLabelName" : "Lang      "
+					}, {
+						"id" : 317,
+						"sizeId" : 35,
+						"labelId" : 25,
+						"size" : 11,
+						"label" : "152",
+						"sizaLabelName" : "Lang      "
+					}, {
+						"id" : 318,
+						"sizeId" : 35,
+						"labelId" : 25,
+						"size" : 13,
+						"label" : "154",
+						"sizaLabelName" : "Lang      "
+					}, {
+						"id" : 319,
+						"sizeId" : 35,
+						"labelId" : 25,
+						"size" : 15,
+						"label" : "156",
+						"sizaLabelName" : "Lang      "
+					}
+				]
+			}
+		],
+		"id" : 35,
+		"name" : "DressNy"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 333,
+						"sizeId" : 17,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 17,
+		"name" : "Dress US"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 332,
+						"sizeId" : 16,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 16,
+		"name" : "Fransk"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 331,
+						"sizeId" : 15,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 15,
+		"name" : "Jeans dame"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 330,
+						"sizeId" : 14,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 14,
+		"name" : "Sko dame"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 329,
+						"sizeId" : 13,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 13,
+		"name" : "Dress SWE"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 328,
+						"sizeId" : 12,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 12,
+		"name" : "Fransk benklær"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 327,
+						"sizeId" : 11,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 11,
+		"name" : "Skjorte UK"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 326,
+						"sizeId" : 10,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 10,
+		"name" : "Sokker"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 325,
+						"sizeId" : 9,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 9,
+		"name" : "Belte"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 324,
+						"sizeId" : 8,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 8,
+		"name" : "Dress dame"
+	}, {
+		"inventory" : [{
+				"id" : 4,
+				"name" : null,
+				"fields" : [{
+						"id" : 113,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 2,
+						"label" : "5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 114,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 3,
+						"label" : "5,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 115,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 4,
+						"label" : "6",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 116,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 5,
+						"label" : "6,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 117,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 6,
+						"label" : "7",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 118,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 7,
+						"label" : "7,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 119,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 8,
+						"label" : "8",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 120,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 9,
+						"label" : "8,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 121,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 10,
+						"label" : "9",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 122,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 11,
+						"label" : "9,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 123,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 12,
+						"label" : "10",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 124,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 13,
+						"label" : "10,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 125,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 14,
+						"label" : "11",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 126,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 15,
+						"label" : "11,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 127,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 16,
+						"label" : "12",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 128,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 17,
+						"label" : "12,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 129,
+						"sizeId" : 7,
+						"labelId" : 4,
+						"size" : 18,
+						"label" : "13",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 7,
+		"name" : "Sko US"
+	}, {
+		"inventory" : [{
+				"id" : 4,
+				"name" : null,
+				"fields" : [{
+						"id" : 96,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 2,
+						"label" : "39",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 97,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 3,
+						"label" : "39,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 98,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 4,
+						"label" : "40",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 99,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 5,
+						"label" : "40,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 100,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 6,
+						"label" : "41",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 101,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 7,
+						"label" : "41,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 102,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 8,
+						"label" : "42",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 103,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 9,
+						"label" : "42,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 104,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 10,
+						"label" : "43",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 105,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 11,
+						"label" : "43,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 106,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 12,
+						"label" : "44",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 107,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 13,
+						"label" : "44,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 108,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 14,
+						"label" : "45",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 109,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 15,
+						"label" : "45,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 110,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 16,
+						"label" : "46",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 111,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 17,
+						"label" : "46,5",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 112,
+						"sizeId" : 6,
+						"labelId" : 4,
+						"size" : 18,
+						"label" : "47",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 6,
+		"name" : "Sko"
+	}, {
+		"inventory" : [{
+				"id" : 2,
+				"name" : null,
+				"fields" : [{
+						"id" : 37,
+						"sizeId" : 5,
+						"labelId" : 2,
+						"size" : 1,
+						"label" : "3XS",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 38,
+						"sizeId" : 5,
+						"labelId" : 2,
+						"size" : 3,
+						"label" : "XXS",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 39,
+						"sizeId" : 5,
+						"labelId" : 2,
+						"size" : 5,
+						"label" : "XS",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 40,
+						"sizeId" : 5,
+						"labelId" : 2,
+						"size" : 7,
+						"label" : "S",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 41,
+						"sizeId" : 5,
+						"labelId" : 2,
+						"size" : 9,
+						"label" : "M",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 42,
+						"sizeId" : 5,
+						"labelId" : 2,
+						"size" : 11,
+						"label" : "L",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 43,
+						"sizeId" : 5,
+						"labelId" : 2,
+						"size" : 13,
+						"label" : "XL",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 44,
+						"sizeId" : 5,
+						"labelId" : 2,
+						"size" : 15,
+						"label" : "XXL",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 45,
+						"sizeId" : 5,
+						"labelId" : 2,
+						"size" : 17,
+						"label" : "3XL",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 46,
+						"sizeId" : 5,
+						"labelId" : 2,
+						"size" : 19,
+						"label" : "4XL",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 5,
+		"name" : "SML"
+	}, {
+		"inventory" : [{
+				"id" : 8,
+				"name" : null,
+				"fields" : [{
+						"id" : 63,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 1,
+						"label" : "42",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 64,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 3,
+						"label" : "44",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 65,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 5,
+						"label" : "46",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 66,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 7,
+						"label" : "48",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 67,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 9,
+						"label" : "50",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 68,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 11,
+						"label" : "52",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 69,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 13,
+						"label" : "54",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 70,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 15,
+						"label" : "56",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 71,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 16,
+						"label" : "58",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 72,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 17,
+						"label" : "60",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 73,
+						"sizeId" : 4,
+						"labelId" : 8,
+						"size" : 18,
+						"label" : "62",
+						"sizaLabelName" : "          "
+					}
+				]
+			}, {
+				"id" : 9,
+				"name" : "L",
+				"fields" : [{
+						"id" : 74,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 1,
+						"label" : "82",
+						"sizaLabelName" : "L         "
+					}, {
+						"id" : 75,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 3,
+						"label" : "86",
+						"sizaLabelName" : "L         "
+					}, {
+						"id" : 76,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 5,
+						"label" : "90",
+						"sizaLabelName" : "L         "
+					}, {
+						"id" : 77,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 7,
+						"label" : "94",
+						"sizaLabelName" : "L         "
+					}, {
+						"id" : 78,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 9,
+						"label" : "98",
+						"sizaLabelName" : "L         "
+					}, {
+						"id" : 79,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 11,
+						"label" : "102",
+						"sizaLabelName" : "L         "
+					}, {
+						"id" : 80,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 13,
+						"label" : "106",
+						"sizaLabelName" : "L         "
+					}, {
+						"id" : 81,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 15,
+						"label" : "110",
+						"sizaLabelName" : "L         "
+					}, {
+						"id" : 82,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 16,
+						"label" : "114",
+						"sizaLabelName" : "L         "
+					}, {
+						"id" : 83,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 17,
+						"label" : "118",
+						"sizaLabelName" : "L         "
+					}, {
+						"id" : 84,
+						"sizeId" : 4,
+						"labelId" : 9,
+						"size" : 18,
+						"label" : "122",
+						"sizaLabelName" : "L         "
+					}
+				]
+			}, {
+				"id" : 10,
+				"name" : "K",
+				"fields" : [{
+						"id" : 85,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 1,
+						"label" : "21",
+						"sizaLabelName" : "K         "
+					}, {
+						"id" : 86,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 3,
+						"label" : "22",
+						"sizaLabelName" : "K         "
+					}, {
+						"id" : 87,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 5,
+						"label" : "23",
+						"sizaLabelName" : "K         "
+					}, {
+						"id" : 88,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 7,
+						"label" : "24",
+						"sizaLabelName" : "K         "
+					}, {
+						"id" : 89,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 9,
+						"label" : "25",
+						"sizaLabelName" : "K         "
+					}, {
+						"id" : 90,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 11,
+						"label" : "26",
+						"sizaLabelName" : "K         "
+					}, {
+						"id" : 91,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 13,
+						"label" : "27",
+						"sizaLabelName" : "K         "
+					}, {
+						"id" : 92,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 15,
+						"label" : "28",
+						"sizaLabelName" : "K         "
+					}, {
+						"id" : 93,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 16,
+						"label" : "29",
+						"sizaLabelName" : "K         "
+					}, {
+						"id" : 94,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 17,
+						"label" : "30",
+						"sizaLabelName" : "K         "
+					}, {
+						"id" : 95,
+						"sizeId" : 4,
+						"labelId" : 10,
+						"size" : 18,
+						"label" : "31",
+						"sizaLabelName" : "K         "
+					}
+				]
+			}
+		],
+		"id" : 4,
+		"name" : "Dress"
+	}, {
+		"inventory" : [{
+				"id" : 1,
+				"name" : null,
+				"fields" : [{
+						"id" : 62,
+						"sizeId" : 3,
+						"labelId" : 1,
+						"size" : 0,
+						"label" : "",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 3,
+		"name" : "OneSize"
+	}, {
+		"inventory" : [{
+				"id" : 2,
+				"name" : null,
+				"fields" : [{
+						"id" : 47,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 1,
+						"label" : "35",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 48,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 3,
+						"label" : "36",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 49,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 5,
+						"label" : "37",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 50,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 7,
+						"label" : "38",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 51,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 9,
+						"label" : "39",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 52,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 10,
+						"label" : "40",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 53,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 11,
+						"label" : "41",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 54,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 12,
+						"label" : "42",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 55,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 13,
+						"label" : "43",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 56,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 14,
+						"label" : "44",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 57,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 15,
+						"label" : "45",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 58,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 16,
+						"label" : "46",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 59,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 17,
+						"label" : "47",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 60,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 18,
+						"label" : "48",
+						"sizaLabelName" : "          "
+					}, {
+						"id" : 61,
+						"sizeId" : 2,
+						"labelId" : 2,
+						"size" : 19,
+						"label" : "49",
+						"sizaLabelName" : "          "
+					}
+				]
+			}
+		],
+		"id" : 2,
+		"name" : "Skjorte"
+	}, {
+		"inventory" : [{
+				"id" : 6,
+				"name" : "32\"",
+				"fields" : [{
+						"id" : 1,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 1,
+						"label" : "28/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 2,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 2,
+						"label" : "29/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 3,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 3,
+						"label" : "30/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 4,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 4,
+						"label" : "31/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 5,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 5,
+						"label" : "32/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 6,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 6,
+						"label" : "33/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 7,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 7,
+						"label" : "34/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 8,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 8,
+						"label" : "35/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 9,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 9,
+						"label" : "36/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 10,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 11,
+						"label" : "38/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 11,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 13,
+						"label" : "40/32",
+						"sizaLabelName" : "32\"       "
+					}, {
+						"id" : 12,
+						"sizeId" : 1,
+						"labelId" : 6,
+						"size" : 15,
+						"label" : "42/32",
+						"sizaLabelName" : "32\"       "
+					}
+				]
+			}, {
+				"id" : 12,
+				"name" : "34\"",
+				"fields" : [{
+						"id" : 13,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 1,
+						"label" : "28/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 14,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 2,
+						"label" : "29/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 15,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 3,
+						"label" : "30/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 16,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 4,
+						"label" : "31/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 17,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 5,
+						"label" : "32/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 18,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 6,
+						"label" : "33/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 19,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 7,
+						"label" : "34/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 20,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 8,
+						"label" : "35/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 21,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 9,
+						"label" : "36/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 22,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 11,
+						"label" : "38/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 23,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 13,
+						"label" : "40/34",
+						"sizaLabelName" : "34\"       "
+					}, {
+						"id" : 24,
+						"sizeId" : 1,
+						"labelId" : 12,
+						"size" : 15,
+						"label" : "42/34",
+						"sizaLabelName" : "34\"       "
+					}
+				]
+			}, {
+				"id" : 14,
+				"name" : "30\"",
+				"fields" : [{
+						"id" : 25,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 1,
+						"label" : "28/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 26,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 2,
+						"label" : "29/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 27,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 3,
+						"label" : "30/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 28,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 4,
+						"label" : "31/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 29,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 5,
+						"label" : "32/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 30,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 6,
+						"label" : "33/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 31,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 7,
+						"label" : "34/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 32,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 8,
+						"label" : "35/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 33,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 9,
+						"label" : "36/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 34,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 11,
+						"label" : "38/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 35,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 13,
+						"label" : "40/30",
+						"sizaLabelName" : "30\"       "
+					}, {
+						"id" : 36,
+						"sizeId" : 1,
+						"labelId" : 14,
+						"size" : 15,
+						"label" : "42/30",
+						"sizaLabelName" : "30\"       "
+					}
+				]
+			}, {
+				"id" : 19,
+				"name" : "36\"",
+				"fields" : [{
+						"id" : 130,
+						"sizeId" : 1,
+						"labelId" : 19,
+						"size" : 4,
+						"label" : "31/36",
+						"sizaLabelName" : "36\"       "
+					}, {
+						"id" : 131,
+						"sizeId" : 1,
+						"labelId" : 19,
+						"size" : 5,
+						"label" : "32/36",
+						"sizaLabelName" : "36\"       "
+					}, {
+						"id" : 132,
+						"sizeId" : 1,
+						"labelId" : 19,
+						"size" : 6,
+						"label" : "33/36",
+						"sizaLabelName" : "36\"       "
+					}, {
+						"id" : 133,
+						"sizeId" : 1,
+						"labelId" : 19,
+						"size" : 7,
+						"label" : "34/36",
+						"sizaLabelName" : "36\"       "
+					}, {
+						"id" : 134,
+						"sizeId" : 1,
+						"labelId" : 19,
+						"size" : 8,
+						"label" : "35/36",
+						"sizaLabelName" : "36\"       "
+					}, {
+						"id" : 135,
+						"sizeId" : 1,
+						"labelId" : 19,
+						"size" : 9,
+						"label" : "36/36",
+						"sizaLabelName" : "36\"       "
+					}, {
+						"id" : 136,
+						"sizeId" : 1,
+						"labelId" : 19,
+						"size" : 11,
+						"label" : "38/36",
+						"sizaLabelName" : "36\"       "
+					}, {
+						"id" : 137,
+						"sizeId" : 1,
+						"labelId" : 19,
+						"size" : 13,
+						"label" : "40/36",
+						"sizaLabelName" : "36\"       "
+					}, {
+						"id" : 138,
+						"sizeId" : 1,
+						"labelId" : 19,
+						"size" : 15,
+						"label" : "42/36",
+						"sizaLabelName" : "36\"       "
+					}
+				]
+			}
+		],
+		"id" : 1,
+		"name" : "Jeans"
+	}
+]

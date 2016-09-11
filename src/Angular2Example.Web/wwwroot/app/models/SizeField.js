@@ -11,8 +11,8 @@ var SizeField = (function () {
         this.labelId = obj.labelId;
         this.size = obj.size;
         this.label = obj.label;
-        this.delta = obj.delta;
-        this.qty = obj.qty;
+        this.delta = obj.delta || this.delta;
+        this.qty = obj.qty || this.qty;
     }
     SizeField.prototype.isChanged = function () {
         return Number(this.delta) !== 0;
@@ -22,7 +22,7 @@ var SizeField = (function () {
         //this.delta = Number(this.delta);
         var total = Number(this.qty) + Number(this.delta);
         if (isNaN(total) || total < 0) {
-            this.delta = -this.qty;
+            //this.delta = -this.qty;
             return 0;
         }
         return total <= 0 ? 0 : total;

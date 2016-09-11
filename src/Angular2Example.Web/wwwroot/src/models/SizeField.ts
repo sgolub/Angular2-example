@@ -14,8 +14,8 @@ export class SizeField {
 		this.labelId = obj.labelId;
 		this.size = obj.size;
 		this.label = obj.label;
-		this.delta = obj.delta;
-		this.qty = obj.qty;
+		this.delta = obj.delta || this.delta;
+		this.qty = obj.qty || this.qty;
 	}
 
 	isChanged() {
@@ -29,7 +29,7 @@ export class SizeField {
 		var total = Number(this.qty) + Number(this.delta);
 
 		if (isNaN(total) || total < 0) {
-			this.delta = -this.qty;
+			//this.delta = -this.qty;
 			return 0;
 		}
 

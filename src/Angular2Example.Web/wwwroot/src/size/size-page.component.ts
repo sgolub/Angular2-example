@@ -1,54 +1,37 @@
 ﻿import { Component } from '@angular/core';
+import {OnInit} from "@angular/core";
 
 import { SizeFieldRow } from '../models/SizeFieldRow';
+import { InventoryService } from '../services/InventoryService';
 
 @Component({
-	templateUrl: 'src/size/size-page.component.html'
+	templateUrl: 'src/size/size-page.component.html',
+	providers: [InventoryService]
 })
-export class SizePageComponent {
+export class SizePageComponent implements OnInit {
+	constructor(private inventoryService: InventoryService) { }
+
 	sizes: any[];
 
 	selectedSize: any;
 
-	constructor() {
+	readonlyMode = false;
 
-		this.sizes = [
-			{
-				id: 1,
-				name: 'One size',
-				rows: [
-					{
-						id: 1,
-						name: '',
-						fields: [
-							{
-								id: 1,
-								labelId: '1',
-								size: 1,
-								label: 'One size',
-								qty: 0
-							}
-						]
-					}
-				]
-			},
-			{
-				id: 2,
-				name: 'Dress',
-				rows: []
-			}
-		].map((o:any) => {
-			o.rows = o.rows.map(r => new SizeFieldRow(r));
-			return o;
+	ngOnInit() {
+		this.inventoryService.getInventory().subscribe(sizes => {
+			this.sizes = sizes.map((o: any) => {
+				o.rows = o.inventory.map(r => new SizeFieldRow(r));
+				return o;
+			});
 		});
 
-		this.selectedSize = this.sizes[0];
-		this.onSizeChanged();
+		//this.selectedSize = this.sizes[0];
+		//this.onSizeChanged();
 	}
 
-	onSizeChanged() {
+	onSizeChanged(selectedSize) {
 
-		
+		//this.selectedSize = selectedSize;
 
 	}
 }
